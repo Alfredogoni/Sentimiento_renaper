@@ -18,27 +18,27 @@ Los motivos más usuales son: Ni siquiera los seres humanos somos capaces de est
 
 Ejemplo POSITIVO
 
-Que linda estuvo la fiesta!
+    Que linda estuvo la fiesta!
 
-    Neutral 0.01 confidence / Positive 0.98 confidence / Negative 0.00 confidence / Mixed 0.00 confidence
+Neutral 0.01 confidence / Positive 0.98 confidence / Negative 0.00 confidence / Mixed 0.00 confidence
 
 Ejemplo NEGATIVO
 
-Estoy preocupado por esa situación
+    Estoy preocupado por esa situación
 
-    Neutral 0.27 confidence / Positive 0.02 confidence / Negative 0.70 confidence / Mixed 0.00 confidence
+Neutral 0.27 confidence / Positive 0.02 confidence / Negative 0.70 confidence / Mixed 0.00 confidence
 
 Ejemplo NEUTRAL
 
     La Dirección Nacional de Población tiene como propósito diseñar, elaborar y evaluar las políticas de población y migraciones, como asimismo, la formulación de programas que las implementen. La diversidad de las acciones y el carácter multisectorial de las mismas, requiere un marco de complementación y colaboración con distintos organismos del Estado, Organizaciones no Gubernamentales y Organismos Internacionales con incumbencia en la temática poblacional.
 
-    Neutral 0.96 confidence / Positive 0.03 confidence / Negative 0.00 confidence / Mixed 0.00 confidence
+Neutral 0.96 confidence / Positive 0.03 confidence / Negative 0.00 confidence / Mixed 0.00 confidence
 
 Ejemplo MIX (de un mail del Banco)
 
     A la promo que ya conoces le sumamos cuatro días más, del jueves 24 al lunes 28 de septiembre disfrutá comprando en Mercado Libre.
 
-    Neutral 0.54 confidence / Positive 0.45 confidence / Negative 0.00 confidence / Mixed 0.00 confidence
+Neutral 0.54 confidence / Positive 0.45 confidence / Negative 0.00 confidence / Mixed 0.00 confidence
 
 Dividimos los tweets y los autores en relación a la categorización para poder evaluar las palabras, y la frecuencia de ocurrencia de ellas, para poder intentar analizar las inquietudes de los usuarios, logrando obtener listas de palabras más repetidas para cada una de las categorías y cuáles fueron los usuarios que más escribieron en cada una.
 
